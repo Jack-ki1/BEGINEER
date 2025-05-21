@@ -1,0 +1,47 @@
+Project 4: Data Cleaning & Automation (Web Scraping + EDA)
+Objective: Scrape real-world data, clean it, and create dynamic visualizations.
+
+Dataset:
+Option 1: Scrape IMDb movie data (using requests + BeautifulSoup).
+
+Option 2: Use COVID-19 Dataset for time-series analysis.
+
+Key Python Libraries:
+Data Cleaning: pandas, numpy
+
+Web Scraping: requests, BeautifulSoup
+
+Visualizations: matplotlib, seaborn, plotly, folium (for geospatial)
+
+Step-by-Step Questions:
+Beginner (Data Extraction & Cleaning)
+Scrape movie data (Title, Rating, Year, Genre) from IMDb.
+
+Load data into a Pandas DataFrame and clean missing values.
+
+Convert data types (e.g., Year to integer).
+
+Extract genres into separate columns (one-hot encoding).
+
+Intermediate (Exploratory Visualizations)
+Matplotlib: Plot a histogram of movie ratings.
+
+Seaborn: Create a boxplot of ratings by genre.
+
+Plotly: Make an interactive scatter plot of Rating vs. Year.
+
+Folium: (If using COVID data) Plot cases on a world map.
+
+WordCloud: Generate a word cloud of movie genres.
+
+Advanced (Automation & Dashboards)
+Automate data scraping and cleaning in a .py script.
+
+Build a Plotly Dash dashboard with filters (e.g., by year/genre).
+
+Use Bokeh for an interactive time-series plot (for COVID data).
+
+Apply PCA to reduce dimensions and visualize clusters.
+
+Save visualizations as HTML/PDF for reporting.
+

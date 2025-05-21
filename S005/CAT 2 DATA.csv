@@ -1,0 +1,102 @@
+﻿Order_ID,Customer_ID,Order_Date,Product_Category,Product_Price,Quantity,Payment_Method,Region
+O0001,C039,1/1/2023,Electronics,43.45,3,Credit Card,North
+O0002,C029,1/2/2023,Books,32.77,4,Paypal,South
+O0003,C015,1/3/2023,Books,44.84,3,Credit Card,North
+O0004,C043,1/4/2023,Books,,1,Credit Card,North
+O0005,C008,1/5/2023,Home Decor,23.01,1,Paypal,South
+O0006,C021,1/6/2023,Home Decor,29.62,5,Credit Card,West
+O0007,C039,1/7/2023,Home Decor,52.54,6,Cash on Delivery,nan
+O0008,C019,1/8/2023,Electronics,25.01,3,Credit Card,North
+O0009,C023,1/9/2023,Books,88.9,9,Paypal,South
+O0010,C011,1/10/2023,Home Decor,46.93,5,Paypal,North
+O0011,C011,1/11/2023,Home Decor,31.86,8,Paypal,East
+O0012,C024,1/12/2023,Electronics,33.65,1,Credit Card,East
+O0013,C036,1/13/2023,Home Decor,40.34,5,Paypal,nan
+O0014,C040,1/14/2023,Electronics,38.6,3,Paypal,West
+O0015,C024,1/15/2023,Clothing,8.17,1,Credit Card,West
+O0016,C003,1/16/2023,Home Decor,75.27,4,Cash on Delivery,North
+O0017,C022,1/17/2023,Clothing,49.69,5,Credit Card,North
+O0018,C002,1/18/2023,Electronics,49.45,7,Paypal,East
+O0019,C024,1/19/2023,Books,66.36,1,Paypal,West
+O0020,C044,1/20/2023,Home Decor,28.91,3,Credit Card,North
+O0021,C030,1/21/2023,Electronics,34.83,2,Cash on Delivery,East
+O0022,C038,1/22/2023,Books,59.15,9,Paypal,West
+O0023,C002,1/23/2023,Books,48.71,6,Paypal,South
+O0024,C021,1/24/2023,Clothing,56.9,3,Paypal,East
+O0025,C033,1/25/2023,Electronics,48.4,8,Credit Card,West
+O0026,C012,1/26/2023,Books,45.17,8,Paypal,West
+O0027,C022,1/27/2023,Home Decor,78.67,2,Cash on Delivery,East
+O0028,C044,1/28/2023,Home Decor,71.32,6,Paypal,South
+O0029,C025,1/29/2023,Clothing,0.02,7,Paypal,East
+O0030,C049,1/30/2023,Books,79.61,2,Cash on Delivery,West
+O0031,C027,1/31/2023,Electronics,93.17,2,Paypal,North
+O0032,C042,2/1/2023,Home Decor,74.64,1,Credit Card,North
+O0033,C028,2/2/2023,Books,45.71,8,Credit Card,East
+O0034,C016,2/3/2023,Books,36.22,1,Credit Card,West
+O0035,C015,2/4/2023,Clothing,64.56,9,Cash on Delivery,North
+O0036,C047,2/5/2023,Home Decor,37.62,6,Paypal,West
+O0037,C044,2/6/2023,Home Decor,57.12,7,Credit Card,East
+O0038,C003,2/7/2023,Electronics,49.56,7,Cash on Delivery,North
+O0039,C037,2/8/2023,Home Decor,74.36,3,Paypal,West
+O0040,C007,2/9/2023,Electronics,42.21,2,Cash on Delivery,North
+O0041,C021,2/10/2023,Home Decor,41.14,9,Credit Card,nan
+O0042,C009,2/11/2023,Clothing,,8,Credit Card,West
+O0043,C039,2/12/2023,Home Decor,,7,Credit Card,nan
+O0044,C018,2/13/2023,Electronics,51.62,9,Cash on Delivery,East
+O0045,C004,2/14/2023,Electronics,41.67,4,Cash on Delivery,North
+O0046,C025,2/15/2023,Clothing,67.15,4,Credit Card,North
+O0047,C014,2/16/2023,Home Decor,64.36,1,Cash on Delivery,South
+O0048,C009,2/17/2023,Home Decor,30.97,8,Credit Card,South
+O0049,C026,2/18/2023,Clothing,39.28,3,Credit Card,East
+O0050,C002,2/19/2023,Home Decor,71.93,7,Paypal,South
+O0051,C020,2/20/2023,Home Decor,58.56,2,Cash on Delivery,East
+O0052,C028,2/21/2023,Electronics,0.61,2,Credit Card,South
+O0053,C047,2/22/2023,Home Decor,59.64,7,Credit Card,North
+O0054,C007,2/23/2023,Home Decor,68.53,6,Cash on Delivery,East
+O0055,C044,2/24/2023,Clothing,33.25,3,Paypal,East
+O0056,C008,2/25/2023,Clothing,63.54,9,Paypal,North
+O0057,C047,2/26/2023,Books,87.45,6,Credit Card,East
+O0058,C035,2/27/2023,Electronics,57.93,6,Cash on Delivery,East
+O0059,C014,2/28/2023,Home Decor,37.49,1,Paypal,South
+O0060,C017,3/1/2023,Home Decor,39.55,4,Cash on Delivery,East
+O0061,C036,3/2/2023,Books,50.26,6,Cash on Delivery,West
+O0062,C040,3/3/2023,Home Decor,57.56,6,Credit Card,North
+O0063,C004,3/4/2023,Electronics,51.26,5,Paypal,South
+O0064,C002,3/5/2023,Books,60.03,1,Credit Card,South
+O0065,C006,3/6/2023,Electronics,47.06,8,Paypal,West
+O0066,C042,3/7/2023,Books,53.61,5,Paypal,North
+O0067,C004,3/8/2023,Books,69.3,5,Paypal,North
+O0068,C029,3/9/2023,Clothing,28.7,7,Paypal,South
+O0069,C018,3/10/2023,Electronics,,4,Paypal,East
+O0070,C026,3/11/2023,Home Decor,52.12,6,Cash on Delivery,South
+O0071,C044,3/12/2023,Home Decor,68.41,4,Credit Card,North
+O0072,C034,3/13/2023,Electronics,45.47,3,Cash on Delivery,West
+O0073,C010,3/14/2023,Home Decor,63.06,7,Paypal,South
+O0074,C036,3/15/2023,Home Decor,72.05,8,Credit Card,North
+O0075,C014,3/16/2023,Electronics,13,4,Paypal,South
+O0076,C031,3/17/2023,Books,73.37,2,Credit Card,East
+O0077,C048,3/18/2023,Electronics,30.29,3,Cash on Delivery,South
+O0078,C015,3/19/2023,Books,28.12,1,Credit Card,South
+O0079,C008,3/20/2023,Home Decor,-7.59,8,Credit Card,North
+O0080,C014,3/21/2023,Home Decor,33.94,3,Credit Card,North
+O0081,C023,3/22/2023,Home Decor,49.9,7,Credit Card,North
+O0082,C040,3/23/2023,Clothing,,5,Credit Card,South
+O0083,C021,3/24/2023,Books,40.75,5,Paypal,East
+O0084,C016,3/25/2023,Clothing,27.75,7,Credit Card,West
+O0085,C045,3/26/2023,Clothing,67.34,9,Credit Card,West
+O0086,C018,3/27/2023,Electronics,69.17,5,Cash on Delivery,North
+O0087,C047,3/28/2023,Clothing,58.36,1,Credit Card,North
+O0088,C024,3/29/2023,Electronics,12.27,1,Cash on Delivery,South
+O0089,C026,3/30/2023,Electronics,95.47,2,Paypal,West
+O0090,C025,3/31/2023,Clothing,52.94,6,Credit Card,North
+O0091,C045,4/1/2023,Books,60.79,9,Cash on Delivery,East
+O0092,C041,4/2/2023,Books,20.03,8,Cash on Delivery,East
+O0093,C029,4/3/2023,Books,49.77,5,Paypal,North
+O0094,C015,4/4/2023,Books,58.27,1,Credit Card,nan
+O0095,C045,4/5/2023,Books,47.18,7,Credit Card,West
+O0096,C001,4/6/2023,Clothing,67.44,5,Cash on Delivery,West
+O0097,C025,4/7/2023,Clothing,76.01,6,Credit Card,South
+O0098,C007,4/8/2023,Home Decor,23.13,7,Cash on Delivery,West
+O0099,C009,4/9/2023,Books,67,3,Credit Card,East
+O0100,C024,4/10/2023,Clothing,57.89,3,Cash on Delivery,East
+,,,,,,,
